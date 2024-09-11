@@ -13,8 +13,8 @@ This repository contains scripts to help you easily install and uninstall Docker
 ## Prerequisites
 
 - A Linux-based operating system.
-- Tested on ubuntu
-- 
+- Tested on ubuntu distro
+
 
 ## Installation
 
